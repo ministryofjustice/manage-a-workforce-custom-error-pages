@@ -1,5 +1,5 @@
 IMAGE := manage-a-workforce-custom-error-pages
-TAG := 0.5
+TAG := 0.7
 FULL_IMAGE := ministryofjustice/$(IMAGE):$(TAG)
 
 PLATFORM := linux/amd64
